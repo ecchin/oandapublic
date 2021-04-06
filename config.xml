@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<configuration>
+  <token></token>
+  <account>/account>
+  <stoptype></stoptype>
+  <apiurl>https://api-fxpractice.oanda.com/v3</apiurl>
+  <timeframe></timeframe>
+  <symbol></symbol>
+  <quantity></quantity>
+  <target></target>
+  <stoploss></stoploss>
+</configuration>
