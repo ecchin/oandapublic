@@ -911,7 +911,7 @@ namespace oandatest
                         {
                             //most recent data is in spot 0
                             //use last 4000 items including most recent candle
-                            //set override to allow return last 4000 items including most recent candle
+                            
                             if ((c.ToLower().Equals("true")) || (complete == 0))
                             {
                               
