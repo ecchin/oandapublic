@@ -9,4 +9,11 @@
   <quantity></quantity>
   <target></target>
   <stoploss></stoploss>
-</configuration>
+<sqllog>on</sqllog>
+  <server></server>
+  <db>tradedata</db>
+  <user></user>
+  <passw></passw>
+  <timeout>30</timeout>
+  <table>trades4</table>
+    </configuration>
